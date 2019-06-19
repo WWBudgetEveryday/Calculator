@@ -1,4 +1,4 @@
-# Project_BudgetEveryday
+# Calculator
 
 
 Technical Support
@@ -9,7 +9,7 @@ We understand the importance of privacy to you and will do our best to protect y
 
 If you have any questions, please leave a message below or contact us as below.
 
-Contact: BinBundgetEveryday@gmail.com
+Contact: CalculatorSD@gmail.com
 
 Privacy Policy
 
